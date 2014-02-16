@@ -1,0 +1,12 @@
+#main_body{
+	text-align:center;
+	margin-top:50px;
+}
+
+#counter{
+	font-size:200px;
+}
+
+#message{
+	display:none;
+}
